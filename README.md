@@ -4,9 +4,6 @@
 https://masterhack.netlify.app/
 
 
-Here's a **SEO-friendly `README.md`** for your project titled **All-Hacking-Package**, keeping **ethical considerations** in mind while optimizing for search engine visibility around popular security topics like WhatsApp, Instagram, and Android hacking tools.
-
----
 
 ````markdown
 # All-Hacking-Package 🔐
