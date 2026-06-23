@@ -1,7 +1,7 @@
 # All-hacking-package
 
 
-https://masterhack.netlify.app/
+https://zerodayinstitute.netlify.app/
 
 
 
@@ -42,7 +42,7 @@ This package includes:
 
 Or download pre-configured packages here:
 
-👉 **[Buy All Hacking Packages at MasterHack](https://masterhack.netlify.app/)**
+👉 **[Buy All Hacking Packages at MasterHack](https://zerodayinstitute.netlify.app/)**
 
 ---
 
@@ -74,7 +74,7 @@ Any illegal use of this software is strictly prohibited and punishable by law.
 
 Get access to exclusive tools and updates via our official site:
 
-🔗 **[MasterHack – All Hacking Packages](https://masterhack.netlify.app/)**
+🔗 **[MasterHack – All Hacking Packages](https://zerodayinstitute.netlify.app/)**
 
 For support or queries, join our community forum or contact us through the website.
 
